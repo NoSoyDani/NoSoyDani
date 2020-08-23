@@ -7,4 +7,4 @@
 
 #### La punta de mi soldador se ha derretido :( :fire:
 
-#### _HAREMOS HISTORIA :)_ :fire:
+#### _HAREMOS HISTORIA :)_ 
