@@ -5,6 +5,4 @@
 
 #### Creando un smartwatch desde cero porque los otros no molan :fire:
 
-#### La punta de mi soldador se ha derretido :( :fire:
-
 #### _HAREMOS HISTORIA :)_ 
