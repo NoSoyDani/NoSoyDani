@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[](https://github.com/NoSoyDani/NoSoyDani/blob/master/zm6VTYC.gif)
+![](https://github.com/NoSoyDani/NoSoyDani/blob/master/zm6VTYC.gif)
 
 🔭 I’m currently working on 
 🌱 I’m currently learning ...
