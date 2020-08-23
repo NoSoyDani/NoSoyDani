@@ -1,4 +1,4 @@
 
 ![](https://github.com/NoSoyDani/NoSoyDani/blob/master/tenor.gif)
 * Estoy creando un asistente virtual (HELIO) porque el de Google no me gusta :fire: 
-_HAREMOS HISTORIA :)_
+* _HAREMOS HISTORIA :)_
