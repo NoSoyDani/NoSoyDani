@@ -5,4 +5,6 @@
 
 #### Creando un smartwatch desde cero porque los otros no molan :fire:
 
+#### Proyecto sobre control de protesis mediante EMG y EGG
+
 #### _HAREMOS HISTORIA :)_ 
