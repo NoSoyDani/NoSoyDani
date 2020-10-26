@@ -5,7 +5,7 @@
 
 #### I'm a developer working in Spain.
 
-- 🏢 I'm currently learning **Recurrent neural networks**.
+- 🧠 I'm currently learning **Recurrent neural networks**.
 - ⚙️ I use daily: `.py`.
 - 🌍 I'm mostly active within the **Cibersecurity Community**.                            
 - 🌱 Learning all about **Deep Learning**.
