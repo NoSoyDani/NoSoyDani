@@ -1,7 +1,6 @@
 
-![](https://github.com/NoSoyDani/NoSoyDani/blob/master/tenor.gif)
 ### Hi there 👋
-#### I'm a Developer working in Spain.
+#### I'm a developer working in Spain.
 
 - 🏢 I'm currently learning **Recurrent neural networks**.
 - ⚙️ I use daily: `.py`.
@@ -11,3 +10,4 @@
 - 📫 Reach me: [twitter.com/DaniDeveloper](https://twitter.com/DaniDeveloper)
 - ⚡️ We can do it!!
 
+![](https://github.com/NoSoyDani/NoSoyDani/blob/master/tenor.gif)
