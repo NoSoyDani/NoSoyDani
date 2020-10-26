@@ -13,7 +13,7 @@
 - 📫 Reach me: [twitter.com/DaniDeveloper](https://twitter.com/DaniDeveloper)
 - ⚡️ We can do it!!
 
-## Future projects💻🌟
+### Future projects💻🌟
 - Implement a recurrent neural network for speech recognition 🔥.
 - Prosthesis development using EEG and EMG 🔥.
 ---
