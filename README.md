@@ -1,5 +1,8 @@
 
 ### Hi there 👋
+![PYTHON](https://img.shields.io/badge/Python-Advanced-orange)
+![JAVA](https://img.shields.io/badge/Java-Intermediate-blue)
+
 #### I'm a developer working in Spain.
 
 - 🏢 I'm currently learning **Recurrent neural networks**.
