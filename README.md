@@ -15,5 +15,7 @@
 ---
 ## Future projects💻🌟
 - Implement a recurrent neural network for speech recognition 🔥.
-- Prosthesis development using EEG and ECG 🔥.
+- Prosthesis development using EEG and EMG 🔥.
+---
+
 ![](donut.gif)
