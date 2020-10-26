@@ -1,5 +1,5 @@
 
-### Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![PYTHON](https://img.shields.io/badge/Python-Advanced-orange)
 ![JAVA](https://img.shields.io/badge/Java-Intermediate-blue)
 ---
