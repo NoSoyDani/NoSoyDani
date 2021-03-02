@@ -5,7 +5,7 @@
 ---
 ### I'm a AI developer working in Spain.
 
-- 🧠 I'm currently learning **Recurrent neural networks**.
+- 🧠 I'm currently learning **Recurrent Neural Networks**.
 - 🔨 I use daily: `.py` `.pynb`.
 - 🌍 I'm mostly active within the **Cibersecurity Community**.                            
 - 🌱 Learning all about **Deep Learning**.
@@ -14,7 +14,7 @@
 - ⚡️ We can do it!!
 
 ### Future projects 🎯⭐️
-- 📀 Build my own server (Done).
+- 📀 Build my own server. (Done)
 - 🌌 Implement a recurrent neural network for speech recognition.
 - 🦾 Prosthesis development using EEG and EMG.
 ---
