@@ -15,7 +15,7 @@
 
 ### Future projects 🎯⭐️
 - 📀 Build my own server. (Done)
-- 🌌 Implement a recurrent neural network for speech recognition.
+- 🌌 Implement a recurrent neural network for speech recognition.(Done)
 - 🦾 Prosthesis development using EEG and EMG.
 ---
 
