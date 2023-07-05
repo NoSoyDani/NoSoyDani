@@ -5,18 +5,13 @@
 ---
 ### I'm a AI developer working in Spain.
 
-- 🧠 I'm currently learning **Recurrent Neural Networks**.
+- 🧠 I'm currently learning **Cibersecurity**.
 - 🔨 I use daily: `.py` `.pynb`.
 - 🌍 I'm mostly active within the **Cibersecurity Community**.                            
-- 🌱 Learning all about **Deep Learning**.
+- 🌱 Learning all about **Cibersecurity**.
 - 💬 Ping me about **Cibersecurity**, **IoT**, **Robotics**, **AI**.
 - 📫 Reach me: [twitter.com/DaniDeveloper](https://twitter.com/DaniDeveloper)
 - ⚡️ We can do it!!
-
-### Future projects 🎯⭐️
-- 📀 Build my own server. (Done)
-- 🌌 Implement a recurrent neural network for speech recognition.(Done)
-- 🦾 Prosthesis development using EEG and EMG.
 ---
 
 ![](donut.gif)
